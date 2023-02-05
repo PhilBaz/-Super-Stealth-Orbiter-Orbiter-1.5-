@@ -1,5 +1,17 @@
+
+
+
+
+
 # -Super-Stealth-Orbiter-Orbiter-1.5-
 This is the Super Stealth Orbiter, a super low profile mount/housing for your Orbiter 1.5 with easy access for servicing the Orbiter without removing it from the printer/housing.
+
+
+
+![A](https://user-images.githubusercontent.com/21558241/216803339-88eed779-3b86-44f2-978e-974c27281f8a.jpg)
+![PXL_20230205_040233249 PORTRAIT](https://user-images.githubusercontent.com/21558241/216803340-edc6878f-65a9-467e-bb12-cc55603d1418.jpg)
+
+
 After using 3dPmamsih 'Orbiter 1.5 for StealthBurner' for a few months I knew there were a few things I wanted to change. 
 
 1) To have an unbroken PTFE path from the exit of the orbiter directly down to the hot end. 3dPmamsih version had break and required two pieces of PTFE with a bit of housing between. There were a few times my hung up in the section, so I wanted to remove it.
