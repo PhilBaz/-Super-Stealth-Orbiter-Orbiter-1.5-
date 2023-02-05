@@ -4,7 +4,7 @@
 
 
 # -Super-Stealth-Orbiter-Orbiter-1.5-
-This is the Super Stealth Orbiter, a super low profile mount/housing for your Orbiter 1.5 with easy access for servicing the Orbiter without removing it from the printer/housing.
+This is the Super Stealth Orbiter, a super low-profile mount/housing for your Orbiter 1.5 with easy access for servicing the Orbiter without removing it from the printer/housing.
 
 
 
@@ -40,6 +40,7 @@ Assembly: Start building it. It will all make sense.
 ![E](https://user-images.githubusercontent.com/21558241/216803913-d4e26108-d8fe-4b73-9398-b479b03b1253.jpg)
 
 
+
 Please do leave a comment and let me know how its working for you.
 
 If anyone wants to see a version for 2.0, send me one! Ill model it up and test it out. Don't need the motor, just extruder 🙂
@@ -50,4 +51,6 @@ Finally, Ill try get a GitHub repo up for this as well.
 
  
 
-Thanks to 3dPmamsih. His design is the foundation for the Super Stealth Orbiter. I believe he adapted his design from Eytecz LGX lite mount, so big thanks to him too. (https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount/ ) "for his mount of lgx lite on SB to inspire me to complete this orbiter 1.5" .
+Thanks to 3dPmamsih. His design is the foundation for the Super Stealth Orbiter. 
+https://www.teamfdm.com/files/file/502-orbiter-15-for-stealthburner/
+I believe he adapted his design from Eytecz LGX lite mount ("for his mount of lgx lite on SB to inspire me to complete this orbiter 1.5"), so big thanks to him too. (https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount/ )  .
